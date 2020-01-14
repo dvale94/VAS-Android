@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.redmadrobot:input-mask-android:5.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/03257045c3664f9ceafcf93fa88078af/input-mask-android-5.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/03257045c3664f9ceafcf93fa88078af/input-mask-android-5.0.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.redmadrobot/input-mask-android/5.0.0/ec5ed7fd2cd57195b817ec6f75c81f4f7d404fb6/input-mask-android-5.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

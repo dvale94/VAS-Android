@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.thejuki:k-form-master:6.4.4@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ebcb60ec21b9f8a7636541c29908e7f7/k-form-master-6.4.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ebcb60ec21b9f8a7636541c29908e7f7/k-form-master-6.4.4/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.thejuki/k-form-master/6.4.4/bafb5884677789328c46c07f267446af1625ac85/k-form-master-6.4.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.thejuki/k-form-master/6.4.4/15ab98c23276f3e333084f4cb7a95732a349666a/k-form-master-6.4.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

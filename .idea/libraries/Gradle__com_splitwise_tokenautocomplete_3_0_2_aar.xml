@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.splitwise:tokenautocomplete:3.0.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/04953daf6a1510c8ad54ad7c7172a1da/jetified-tokenautocomplete-3.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/04953daf6a1510c8ad54ad7c7172a1da/jetified-tokenautocomplete-3.0.2/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.splitwise/tokenautocomplete/3.0.2/1498b48a86e45062d4c744d8ee4ce08a7ef5bfcc/tokenautocomplete-3.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.splitwise/tokenautocomplete/3.0.2/286e8815f7b4f3fb60b0402c60a6d83a7c92cfa1/tokenautocomplete-3.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
