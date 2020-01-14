@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/checkout_item"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/colorPrimary"
+    android:orientation="vertical"
+    android:layout_marginHorizontal="@dimen/default_padding"
+    android:layout_marginTop="@dimen/default_padding"
+    app:cardCornerRadius="@dimen/default_corner_radius"
+    app:cardElevation="@dimen/default_elevation">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:padding="@dimen/default_padding">
+
+        <TextView
+            android:id="@+id/tv_row_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/assigned_school"
+            android:textColor="#A2A2A2"
+            android:textStyle="bold" />
+
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="5dp" />
+
+        <TextView
+            android:id="@+id/tv_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="SCHOOL"
+            android:textColor="@android:color/primary_text_light"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="5dp" />
+
+        <TextView
+            android:id="@+id/tv_school_address"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="School Address"
+            android:textColor="@android:color/secondary_text_light" />
+
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="5dp" />
+
+        <TextView
+            android:id="@+id/tv_personnel_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Personnel Name"
+            android:textColor="@android:color/secondary_text_light" />
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="5dp" />
+
+        <TextView
+            android:id="@+id/tv_personnel_email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Personnel Email"
+            android:textColor="@android:color/secondary_text_light" />
+
+    </LinearLayout>
+</androidx.cardview.widget.CardView>
